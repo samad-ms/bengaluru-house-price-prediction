@@ -1,4 +1,5 @@
-https://github.com/abdulsamad3775/bengaluru-house-price-prediction/blob/master/website.png
+![Project Overview](https://github.com/abdulsamad3775/bengaluru-house-price-prediction/raw/master/website.png)
+
 
 
 # House Price Prediction Project
